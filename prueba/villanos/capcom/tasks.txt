@@ -1,0 +1,3 @@
+- Create mutant creatures to test strength.
+- Hack military systems or city infrastructure.
+- Challenge heroes to test their power.
