@@ -2,3 +2,5 @@ Thanos
 Galactus
 Carnage
 Doctor Doom
+Loki
+Mysterio
