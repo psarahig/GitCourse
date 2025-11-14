@@ -4,3 +4,5 @@ Carnage
 Doctor Doom
 Loki
 Mysterio
+Ultron
+Annihilus
